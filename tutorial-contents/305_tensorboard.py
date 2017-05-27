@@ -47,3 +47,4 @@ for step in range(100):
 # Lastly, in your terminal or CMD, type this :
 # $ tensorboard --logdir path/to/log
 # open you google chrome, type the link shown on your terminal or CMD. (something like this: http://0.0.0.0:6006)
+# in my case, only use localhost:6006 works
